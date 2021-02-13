@@ -1,7 +1,7 @@
 Hey, I'm Peter!
 
 I fell in love with AI when I was younger, and realized my dream of working in the when I moved to Adelaide :)
-I'm currently an Artificial Intelligence Specialist, working on automation microbiology plate screening.
+I'm currently an Artificial Intelligence Specialist, working on automating microbiology plate screening.
 
 I love reading, singing, and going out for adventures. I'm alway looking for a new hobby, something new to learn, or starting a new side project.
 
