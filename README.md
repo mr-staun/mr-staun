@@ -4,7 +4,7 @@ I am a Software Engineer and former A.I. Specialist, originally from Guatemala ð
 who is constantly learning new things.
 
 **Get in touch:**
-[![LinkedIn Badge](https://img.shields.io/badge/-Peter%20Stone-blue?style=flat&logo=linkedin&link=https://au.linkedin.com/in/mr-stone)]
+[![LinkedIn Badge](https://img.shields.io/badge/-Peter%20Stone-blue?style=flat&logo=linkedin&link=https://au.linkedin.com/in/mr-stone)](https://au.linkedin.com/in/mr-stone)
 
 ## Programming Languages
 Call me a polyglot!
