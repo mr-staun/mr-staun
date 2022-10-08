@@ -1,10 +1,31 @@
-Hey, I'm Peter!
+# Hey, I'm Peter!
 
-I fell in love with AI when I was younger, and realized my dream of working in the field when I moved to Australia :)
-I'm currently an Artificial Intelligence Specialist, working on automating microbiology plate screening.
+I am a Software Engineer and former A.I. Specialist, originally from Guatemala 🇬🇹 and now based in Australia 🇦🇺. I am an open-source advocate and avid Linux user 
+who is constantly learning new things.
 
-I love reading, singing, and going out for adventures. I'm alway looking for a new hobby, something new to learn, or starting a new side project.
+**Get in touch:**
+[![LinkedIn Badge](https://img.shields.io/badge/-Peter%20Stone-blue?style=flat&logo=linkedin&link=https://au.linkedin.com/in/mr-stone)]
 
-I started my programming journey with Java, but I have learnt to code in many other languages: Bash, C, C++, JavaScript, Python, SQL and VBA.
+## Programming Languages
+Call me a polyglot!
 
-You can find me on LinkedIn: https://www.linkedin.com/in/mr-stone/
+- Java
+- Python
+- C and C++
+- Bash
+- JavaScript
+- SQL
+- HTML (just kidding! Not a language)
+
+## Technologies
+I like knowing a little bit of everything, but I can mainly talk about:
+
+- Artificial Intelligence
+- Supervised Learning
+- Generative Adversarial Networks (GANs)
+- Computer Vision
+- CI/CD
+- DevOps
+- Linux
+- FOSS
+- Containers (not Tupperware)
